@@ -1,6 +1,5 @@
-## TODO
+### TODO
 
-### Step2
 - [x] ddl-auto 값 validate 로 주기
   
 - [x] JdbcTemplate -> Jpa
