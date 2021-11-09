@@ -7,6 +7,11 @@ import java.util.List;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
+import kitchenpos.order.domain.Order;
+import kitchenpos.order.domain.OrderLineItem;
+import kitchenpos.order.domain.OrderStatus;
+import kitchenpos.table.domain.OrderTable;
+
 import static kitchenpos.fixture.OrderFixture.COMPLETION_ORDER;
 import static kitchenpos.fixture.OrderFixture.COOKING_ORDER;
 import static kitchenpos.fixture.OrderLineItemFixture.양념반_후라이드반_하나;

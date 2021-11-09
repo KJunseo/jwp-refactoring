@@ -1,5 +1,5 @@
 ### TODO
-- [ ] Package by Feature로 구조 변경
+- [x] Package by Feature로 구조 변경
 - [ ] 의존성 그려보기
 - [ ] 의존성 관점에서 리팩터링
     - Check List

@@ -9,8 +9,8 @@ import org.springframework.test.web.servlet.ResultActions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import kitchenpos.dto.request.menu.CreateMenuGroupRequest;
-import kitchenpos.dto.response.menu.MenuGroupResponse;
+import kitchenpos.menu.ui.request.CreateMenuGroupRequest;
+import kitchenpos.menu.ui.response.MenuGroupResponse;
 
 import static org.mockito.ArgumentMatchers.any;
 import static org.mockito.BDDMockito.given;

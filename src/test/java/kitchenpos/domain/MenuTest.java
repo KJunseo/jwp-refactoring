@@ -6,6 +6,8 @@ import java.util.Arrays;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
+import kitchenpos.menu.domain.Menu;
+
 import static kitchenpos.fixture.MenuGroupFixture.추천메뉴;
 import static kitchenpos.fixture.MenuProductFixture.양념치킨_한마리_메뉴상품;
 import static kitchenpos.fixture.MenuProductFixture.후라이드치킨_한마리_메뉴상품;
